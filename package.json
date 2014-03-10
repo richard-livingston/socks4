@@ -1,0 +1,21 @@
+{
+    "author" : "Richard Livingston <richard@logoapps.com>",
+    "name" : "socks4",
+    "description" : "SOCKS4/a server which extends net.Server. It has a simple interface that allows you to inspect, log, and manipulate traffic before forwarding to the client.",
+    "version" : "0.1.0",
+    "homepage" : "https://github.com/logoapps/socks4",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/logoapps/socks4"
+    },
+    "main" : "./index",
+    "keywords" : [
+        "socks",
+        "socks4",
+        "socks 4",
+        "socks4a",
+        "socks 4a",
+        "proxy"
+    ],
+    "license" : "MIT"
+}
