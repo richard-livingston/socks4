@@ -2,7 +2,7 @@
     "author" : "Richard Livingston <richard@logoapps.com>",
     "name" : "socks4",
     "description" : "SOCKS4/a server which extends net.Server. It has a simple interface that allows you to inspect, log, and manipulate traffic before forwarding to the client.",
-    "version" : "0.1.0",
+    "version" : "0.1.1",
     "homepage" : "https://github.com/logoapps/socks4",
     "repository" : {
         "type" : "git",
